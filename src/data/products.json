@@ -1,0 +1,41 @@
+[
+{
+"name" : "Call me if you get lost",
+"id" : "1",
+"category" : "hiphop",
+"detail" : "Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final.",
+"img" : "/assets/callmeifyougetlost.webp"
+},
+{
+   "name" : "Stankoni",
+   "id" : "2",
+   "category" : "hiphop",
+   "detail" :"Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final.",
+   "img" : "/assets/stankonia.webp"
+},
+{
+    "name" : "Channel Orange",
+    "id" : "3",
+    "category" : "hiphop",
+    "detail" :"Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final.",
+    "img" : "/assets/channelorange.webp"
+},
+{
+    "name" : "Plastic Beach",
+    "id" : "4",
+    "category" : "hiphop",
+    "detail" :"Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final.",
+    "img" : "/assets/plasticbeach.webp"
+},
+{
+    "name" : "Almendra",
+    "id" : "5",
+    "category" : "rocknacional",
+    "detail" :"Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final.",
+    "img" : "/assets/almendra.webp"
+    
+    
+}
+
+
+]
