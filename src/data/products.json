@@ -26,15 +26,6 @@
     "category" : "hiphop",
     "detail" :"Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final.",
     "img" : "/assets/plasticbeach.webp"
-},
-{
-    "name" : "Almendra",
-    "id" : "5",
-    "category" : "rocknacional",
-    "detail" :"Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final.",
-    "img" : "/assets/almendra.webp"
-    
-    
 }
 
 
